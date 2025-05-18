@@ -9,6 +9,20 @@ A Python CLI app to track your money like a pro! 📊 Manage income, expenses, b
 📈 Reports: Monthly, yearly, category, and trend analysis.
 💾 Backup/Restore: Save and recover your data safely.
 
+🛠️ Requirements
+
+To run this project, you’ll need:
+
+- Python 3.6 or higher 🐍
+
+Required Python packages:
+- tabulate (for pretty-printed tables)
+- getpass (included in Python standard library)
+- sqlite3 (included in Python standard library)
+- hashlib (included in Python standard library)
+- os (included in Python standard library)
+- datetime (included in Python standard library)
+
 🎮 Usage
 - Start: Run python Finance_Manager.py.
   
